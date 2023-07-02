@@ -1,4 +1,4 @@
-# Hostfully
+# Hostfully Technical Task
 ## Prerequisite to run locally
 - You need jdk17 for compiling project. You will need to do mvn clean install and then start main class.
 ## For testing locally
